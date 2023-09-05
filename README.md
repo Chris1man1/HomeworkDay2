@@ -21,4 +21,14 @@ Le Markdown permet également de créer des liens hypetexte, comme [ce lien vers
 
 ### Citation
 
-Ceci est une citation
+Ceci est une citation. Vous pouvez l'utiliser pour mettre en évidence du texte ou pour citer quelqu'un
+
+### Code
+
+Voici comment écrire du code : printf("Hello,world"); et voici comment écrire un bloc de code :
+
+```
+def my_function():
+    print("Hello from Python")
+```
+
